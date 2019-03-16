@@ -26,7 +26,17 @@ projects:
     forks: true
     projects:
     # - repo-name
-
+repositories:
+  - TheoremJS
+  - DisplayJS
+  - Descartes
+  - ProType
+  - EyeJS
+  - Glottologist
+  - Neuron
+  - Timeline
+  - Catch
+  - Chirper
 social_media:
   # behance: your_username
   # dribbble: your_username

@@ -28,6 +28,7 @@ projects:
     # - repo-name
 repositories:
   - TheoremJS
+  - Euler
   - DisplayJS
   - Descartes
   - ProType
@@ -35,8 +36,7 @@ repositories:
   - Glottologist
   - Neuron
   - Timeline
-  - Catch
-  - Chirper
+  - StudIO
 social_media:
   # behance: your_username
   # dribbble: your_username

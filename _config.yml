@@ -17,9 +17,9 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: stars
+  sort_by: pushed
   # sort_by options:
-  #   - pushed
+  #   - 
   #   - stars
   limit: 9
   exclude:
@@ -37,11 +37,13 @@ repositories:
   - Neuron
   - Timeline
   - StudIO
+  - ctoUI
+  - BroadcastJS
 social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # linkedin: your_username
+  linkedin: "arthur-guiot-4a68a91bb"
   medium: "@arthur_guiot"
   stackoverflow: 6598037
   # telegram: your_username
